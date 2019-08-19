@@ -1,0 +1,10 @@
+hash: 2aa242cb0d7aca9064b4f2f084ffc48df1a0864709fb8fad1b5a0e61614a8887
+updated: 2019-08-19T22:24:18.692107+01:00
+imports:
+- name: github.com/sergi/go-diff
+  version: 1744e2970ca51c86172c8190fadad617561ed6e7
+  subpackages:
+  - diffmatchpatch
+- name: gopkg.in/yaml.v2
+  version: 51d6538a90f86fe93ac480b35f37b2be17fef232
+testImports: []
